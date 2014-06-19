@@ -1,3 +1,3 @@
 FROM ubuntu
 
-RUN apt-get install openssh-server
+RUN apt-get install -y openssh-server
